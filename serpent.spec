@@ -4,7 +4,7 @@
 #
 Name     : serpent
 Version  : 1.27
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/4e/44/511a118078c2cab230c7bf5cd243950d107c1d0cc78a2917837c9761ea6e/serpent-1.27.tar.gz
 Source0  : https://files.pythonhosted.org/packages/4e/44/511a118078c2cab230c7bf5cd243950d107c1d0cc78a2917837c9761ea6e/serpent-1.27.tar.gz
 Summary  : Serialization based on ast.literal_eval
