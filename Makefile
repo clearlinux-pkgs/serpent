@@ -1,5 +1,5 @@
 PKG_NAME := serpent
-URL = https://files.pythonhosted.org/packages/6d/e3/ccca30f16ce04f2ca079c2032a385e0a80ec9ccd0ef7f6b0eeda5560595a/serpent-1.30.tar.gz
+URL = https://files.pythonhosted.org/packages/76/9c/f25dc4e3a9d53933f0aa3fe52d606325fab226bf287af33e9bb2b8e55a17/serpent-1.30.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
